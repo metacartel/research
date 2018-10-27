@@ -6,7 +6,7 @@ CRTF is a decentralised ventured backed cult birthed by the MetaCartel. We are a
 
 ## Main activity
 
-**Goal:** Get rich as the first priority. While we would conduct ICOs to get rich, we know nothing about marketing n all that financial shit. Hence we plan to get rich through through cryptoeconomics and science. #BUIDLgang
+**Goal:** Get rich as the first priority. While we would conduct ICOs to get rich, we know nothing about marketing n all that finance. Hence we plan to get rich through through cryptoeconomics and science. #BUIDLgang
 
 ![](https://i.imgur.com/YZ6a9pm.png)
 
