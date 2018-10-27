@@ -18,7 +18,10 @@ Contribute to problems and get in touch with pet3rpan ;)
 
 ## Team
 
-**Sina** 
+**S1na** (Tenzorum) - "Enjoys german bureaucracy"
 
+**Pet3rpan** (Tenzorum) - "Can eat two kebabs for dinner"
 
+**George** (LimeChain) - "Tastes sour"
 
+**Olivier** (Argent) - "Strategic vacation planner"
