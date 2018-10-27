@@ -6,6 +6,8 @@ CRTF is a decentralised ventured backed cult birthed by the MetaCartel. We are a
 
 ## Main activity
 
+**Goal:** Get rich as the first priority. While we would conduct ICOs to get rich, we don't know how to wear a suit + we know nothing about marketing. Hence we plan to get rich through through cryptoeconomics and meta-xs.
+
 We are working on meta-txs and focusing on decentralising the centralised server aspect of the architecture. This involves problem solving across these fields... If you don't know what meta-txs are, start here: [Introduction to Meta-txs](https://github.com/Meta-tx/Harbour-MVP/wiki)
 
 - Cryptoeconomic design
