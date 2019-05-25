@@ -1,3 +1,5 @@
+## We solved this problem: [1800 Gas Station Network](https://medium.com/tabookey/1-800-ethereum-gas-stations-network-for-toll-free-transactions-4bbfc03a0a56)
+
 ![](https://i.imgur.com/bIS8zGh.png)
 
 # The Cartel's Research Task Force (CRTF)
